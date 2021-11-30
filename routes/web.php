@@ -21,9 +21,9 @@ Route::view('/', 'index')->name('index');
 Route::view('/about', 'about')->name('about');
 Route::view('/portfolio', 'portfolio')->name('portfolio');
 Route::view('/services', 'services')->name('services');
-Route::view('/single-project', 'single-project')->name('single-project');
-Route::view('/single-project2', 'single-project2')->name('single-project2');
-Route::view('/single-project3', 'single-project3')->name('single-project3');
+Route::view('/infusor-nessie', 'infusor-nessie')->name('infusor-nessie');
+Route::view('/mandala', 'mandala')->name('mandala');
+Route::view('/agenda-personaje', 'agenda-personaje')->name('agenda-personaje');
 
 // contact me
 Route::view('/contact', 'contact')->name('contact');

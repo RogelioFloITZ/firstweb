@@ -79,7 +79,7 @@
     <!-- top bar -->
     <div class="top-bar">
         <h1>portafolio</h1>
-        <p><a href="#">Inicio</a> / Portafolio</p>
+        <p><a href="{{route('index')}}">Inicio</a> / Portafolio</p>
     </div>
     <!-- end top bar -->
 
@@ -106,13 +106,13 @@
                 <div class="no-padding portfolio_container clearfix">
                     <!-- single work -->
                     <div class="col-md-4 col-sm-6 photography">
-                        <a href="{{route('single-project')}}" class="portfolio_item">
+                        <a href="{{route('infusor-nessie')}}" class="portfolio_item">
                             <img src="img/portfolio/izquierda.jpg" alt="image" class="img-responsive" />
                             <div class="portfolio_item_hover">
                                 <div class="portfolio-border clearfix">
                                     <div class="item_info">
-                                        <span>Creación No. 1</span>
-                                        <em>Infusor Nessie</em>
+                                        <span>Infusor Nessie</span>
+                                        <em>Clickeame</em>
                                     </div>
                                 </div>
                             </div>
@@ -122,13 +122,13 @@
 
                     <!-- single work -->
                     <div class="col-md-4 col-sm-6 logo">
-                        <a href="{{route('single-project2')}}" class="portfolio_item">
+                        <a href="{{route('mandala')}}" class="portfolio_item">
                             <img src="img/portfolio/derecha.jpg" alt="image" class="img-responsive" />
                             <div class="portfolio_item_hover">
                                 <div class="portfolio-border clearfix">
                                     <div class="item_info">
-                                        <span>Creación No. 2</span>
-                                        <em>Mandala</em>
+                                        <span>Mandala</span>
+                                        <em>Clickeame</em>
                                     </div>
                                 </div>
                             </div>
@@ -138,13 +138,13 @@
 
                     <!-- single work -->
                     <div class="col-md-4 col-sm-12 graphics">
-                        <a href="{{route('single-project3')}}" class="portfolio_item">
+                        <a href="{{'agenda-personaje'}}" class="portfolio_item">
                             <img src="img/portfolio/centro.jpg" alt="image" class="img-responsive" />
                             <div class="portfolio_item_hover">
                                 <div class="portfolio-border clearfix">
                                     <div class="item_info">
-                                        <span>Creación No. 3</span>
-                                        <em>Agenda y Personaje</em>
+                                        <span>Agenda y Personaje</span>
+                                        <em>Clickeame</em>
                                     </div>
                                 </div>
                             </div>
