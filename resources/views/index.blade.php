@@ -103,7 +103,7 @@
                 <!-- single work -->
                 <div class="col-md-3 col-sm-6  fashion logo">
                     <a class="portfolio_item">
-                        <img src="img/portfolio/infusor/supIZQ.jpg" alt="image" class="img-responsive" />
+                        <img src="img/portfolio/infusor/1.png" alt="image" class="img-responsive" />
                         <div class="portfolio_item_hover">
                             <div class="portfolio-border clearfix">
                                 <div class="item_info">
@@ -119,7 +119,7 @@
                 <!-- single work -->
                 <div class="col-md-3 col-sm-6 ads graphics">
                     <a class="portfolio_item">
-                        <img src="img/portfolio/infusor/supDER.jpg" alt="image" class="img-responsive" />
+                        <img src="img/portfolio/infusor/2.png" alt="image" class="img-responsive" />
                         <div class="portfolio_item_hover">
                             <div class="portfolio-border clearfix">
                                 <div class="item_info">
@@ -135,7 +135,7 @@
                 <!-- single work -->
                 <div class="col-md-6 col-sm-12 photography">
                     <a class="portfolio_item">
-                        <img src="img/portfolio/infusor/grandeDer.jpg" alt="image" class="img-responsive" />
+                        <img src="img/portfolio/infusor/gDer.png" alt="image" class="img-responsive" />
                         <div class="portfolio_item_hover">
                             <div class="portfolio-border clearfix">
                                 <div class="item_info">
@@ -151,7 +151,7 @@
                 <!-- single work -->
                 <div class="col-md-3 col-sm-6 fashion ads">
                     <a class="portfolio_item">
-                        <img src="img/portfolio/infusor/infDER.jpg" alt="image" class="img-responsive" />
+                        <img src="img/portfolio/infusor/3.png" alt="image" class="img-responsive" />
                         <div class="portfolio_item_hover">
                             <div class="portfolio-border clearfix">
                                 <div class="item_info">
@@ -167,7 +167,7 @@
                 <!-- single work -->
                 <div class="col-md-3 col-sm-6 graphics ads">
                     <a class="portfolio_item">
-                        <img src="img/portfolio/infusor/infIZQ.jpg" alt="image" class="img-responsive" />
+                        <img src="img/portfolio/infusor/4.png" alt="image" class="img-responsive" />
                         <div class="portfolio_item_hover">
                             <div class="portfolio-border clearfix">
                                 <div class="item_info">
@@ -183,7 +183,7 @@
                 <!-- single work -->
                 <div class="col-md-6 col-sm-12 photography">
                     <a class="portfolio_item">
-                        <img src="img/portfolio/infusor/grandeIZQ.jpg" alt="image" class="img-responsive" />
+                        <img src="img/portfolio/infusor/gIZQ.png" alt="image" class="img-responsive" />
                         <div class="portfolio_item_hover">
                             <div class="portfolio-border clearfix">
                                 <div class="item_info">
@@ -199,7 +199,7 @@
                 <!-- single work -->
                 <div class="col-md-3 col-sm-6 graphics ads">
                     <a class="portfolio_item">
-                        <img src="img/portfolio/infusor/supDER2.jpg" alt="image" class="img-responsive" />
+                        <img src="img/portfolio/infusor/5.png" alt="image" class="img-responsive" />
                         <div class="portfolio_item_hover">
                             <div class="portfolio-border clearfix">
                                 <div class="item_info">
@@ -215,7 +215,7 @@
                 <!-- single work -->
                 <div class="col-md-3 col-sm-6 graphics ads">
                     <a class="portfolio_item">
-                        <img src="img/portfolio/infusor/supIZQ2.jpg" alt="image" class="img-responsive" />
+                        <img src="img/portfolio/infusor/6.png" alt="image" class="img-responsive" />
                         <div class="portfolio_item_hover">
                             <div class="portfolio-border clearfix">
                                 <div class="item_info">
@@ -231,7 +231,7 @@
                 <!-- single work -->
                 <div class="col-md-3 col-sm-6 graphics ads">
                     <a class="portfolio_item">
-                        <img src="img/portfolio/infusor/infDER2.jpg" alt="image" class="img-responsive" />
+                        <img src="img/portfolio/infusor/7.png" alt="image" class="img-responsive" />
                         <div class="portfolio_item_hover">
                             <div class="portfolio-border clearfix">
                                 <div class="item_info">
@@ -247,7 +247,7 @@
                 <!-- single work -->
                 <div class="col-md-3 col-sm-6 graphics ads">
                     <a class="portfolio_item">
-                        <img src="img/portfolio/infusor/infIZQ2.jpg" alt="image" class="img-responsive" />
+                        <img src="img/portfolio/infusor/8.png" alt="image" class="img-responsive" />
                         <div class="portfolio_item_hover">
                             <div class="portfolio-border clearfix">
                                 <div class="item_info">
