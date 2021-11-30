@@ -104,14 +104,14 @@
                 <div class="col-md-3 col-sm-6  fashion logo">
                     <a class="portfolio_item">
                         <img src="img/portfolio/infusor/1.png" alt="image" class="img-responsive" />
-                        <div class="portfolio_item_hover">
+                        {{-- <div class="portfolio_item_hover">
                             <div class="portfolio-border clearfix">
                                 <div class="item_info">
                                     <span>Bocetos</span>
                                     <em>Infusor Nessieo</em>
                                 </div>
                             </div>
-                        </div>
+                        </div> --}}
                     </a>
                 </div>
                 <!-- end single work -->
@@ -120,14 +120,14 @@
                 <div class="col-md-3 col-sm-6 ads graphics">
                     <a class="portfolio_item">
                         <img src="img/portfolio/infusor/2.png" alt="image" class="img-responsive" />
-                        <div class="portfolio_item_hover">
+                        {{-- <div class="portfolio_item_hover">
                             <div class="portfolio-border clearfix">
                                 <div class="item_info">
                                     <span>Planos</span>
                                     <em>Infusor Nessie</em>
                                 </div>
                             </div>
-                        </div>
+                        </div> --}}
                     </a>
                 </div>
                 <!-- end single work -->
@@ -136,14 +136,14 @@
                 <div class="col-md-6 col-sm-12 photography">
                     <a class="portfolio_item">
                         <img src="img/portfolio/infusor/gDer.png" alt="image" class="img-responsive" />
-                        <div class="portfolio_item_hover">
+                        {{-- <div class="portfolio_item_hover">
                             <div class="portfolio-border clearfix">
                                 <div class="item_info">
                                     <span>Prototipo finalizado</span>
                                     <em>Infusor Nessie</em>
                                 </div>
                             </div>
-                        </div>
+                        </div> --}}
                     </a>
                 </div>
                 <!-- end single work -->
@@ -152,14 +152,14 @@
                 <div class="col-md-3 col-sm-6 fashion ads">
                     <a class="portfolio_item">
                         <img src="img/portfolio/infusor/3.png" alt="image" class="img-responsive" />
-                        <div class="portfolio_item_hover">
+                        {{-- <div class="portfolio_item_hover">
                             <div class="portfolio-border clearfix">
                                 <div class="item_info">
                                     <span>Prototipo finalizado</span>
                                     <em>Agenda y personaje</em>
                                 </div>
                             </div>
-                        </div>
+                        </div> --}}
                     </a>
                 </div>
                 <!-- end single work -->
@@ -168,14 +168,14 @@
                 <div class="col-md-3 col-sm-6 graphics ads">
                     <a class="portfolio_item">
                         <img src="img/portfolio/infusor/4.png" alt="image" class="img-responsive" />
-                        <div class="portfolio_item_hover">
+                        {{-- <div class="portfolio_item_hover">
                             <div class="portfolio-border clearfix">
                                 <div class="item_info">
                                     <span>Bocetos</span>
                                     <em>Agenda y personaje</em>
                                 </div>
                             </div>
-                        </div>
+                        </div> --}}
                     </a>
                 </div>
                 <!-- end single work -->
@@ -184,14 +184,14 @@
                 <div class="col-md-6 col-sm-12 photography">
                     <a class="portfolio_item">
                         <img src="img/portfolio/infusor/gIZQ.png" alt="image" class="img-responsive" />
-                        <div class="portfolio_item_hover">
+                        {{-- <div class="portfolio_item_hover">
                             <div class="portfolio-border clearfix">
                                 <div class="item_info">
                                     <span>Prototipo finalizado</span>
                                     <em>Agenda y personaje</em>
                                 </div>
                             </div>
-                        </div>
+                        </div> --}}
                     </a>
                 </div>
                 <!-- end single work -->
@@ -200,14 +200,14 @@
                 <div class="col-md-3 col-sm-6 graphics ads">
                     <a class="portfolio_item">
                         <img src="img/portfolio/infusor/5.png" alt="image" class="img-responsive" />
-                        <div class="portfolio_item_hover">
+                        {{-- <div class="portfolio_item_hover">
                             <div class="portfolio-border clearfix">
                                 <div class="item_info">
                                     <span>Croquis final</span>
                                     <em>Mandala</em>
                                 </div>
                             </div>
-                        </div>
+                        </div> --}}
                     </a>
                 </div>
                 <!-- end single work -->
@@ -216,14 +216,14 @@
                 <div class="col-md-3 col-sm-6 graphics ads">
                     <a class="portfolio_item">
                         <img src="img/portfolio/infusor/6.png" alt="image" class="img-responsive" />
-                        <div class="portfolio_item_hover">
+                        {{-- <div class="portfolio_item_hover">
                             <div class="portfolio-border clearfix">
                                 <div class="item_info">
                                     <span>Prototipo finalizado</span>
                                     <em>Agenda y personaje</em>
                                 </div>
                             </div>
-                        </div>
+                        </div> --}}
                     </a>
                 </div>
                 <!-- end single work -->
@@ -232,14 +232,14 @@
                 <div class="col-md-3 col-sm-6 graphics ads">
                     <a class="portfolio_item">
                         <img src="img/portfolio/infusor/7.png" alt="image" class="img-responsive" />
-                        <div class="portfolio_item_hover">
+                        {{-- <div class="portfolio_item_hover">
                             <div class="portfolio-border clearfix">
                                 <div class="item_info">
                                     <span>Planos en software</span>
                                     <em>Mandala</em>
                                 </div>
                             </div>
-                        </div>
+                        </div> --}}
                     </a>
                 </div>
                 <!-- end single work -->
@@ -248,14 +248,14 @@
                 <div class="col-md-3 col-sm-6 graphics ads">
                     <a class="portfolio_item">
                         <img src="img/portfolio/infusor/8.png" alt="image" class="img-responsive" />
-                        <div class="portfolio_item_hover">
+                        {{-- <div class="portfolio_item_hover">
                             <div class="portfolio-border clearfix">
                                 <div class="item_info">
                                     <span>Prototipo finalizado</span>
                                     <em>Mandala</em>
                                 </div>
                             </div>
-                        </div>
+                        </div> --}}
                     </a>
                 </div>
                 <!-- end single work -->

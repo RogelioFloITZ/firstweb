@@ -107,7 +107,7 @@
                     <!-- single work -->
                     <div class="col-md-4 col-sm-6 photography">
                         <a href="{{route('infusor-nessie')}}" class="portfolio_item">
-                            <img src="img/portfolio/izquierda.jpg" alt="image" class="img-responsive" />
+                            <img src="img/portfolio/1.png" alt="image" class="img-responsive" />
                             <div class="portfolio_item_hover">
                                 <div class="portfolio-border clearfix">
                                     <div class="item_info">
@@ -123,7 +123,7 @@
                     <!-- single work -->
                     <div class="col-md-4 col-sm-6 logo">
                         <a href="{{route('mandala')}}" class="portfolio_item">
-                            <img src="img/portfolio/derecha.jpg" alt="image" class="img-responsive" />
+                            <img src="img/portfolio/3.png" alt="image" class="img-responsive" />
                             <div class="portfolio_item_hover">
                                 <div class="portfolio-border clearfix">
                                     <div class="item_info">
@@ -139,7 +139,7 @@
                     <!-- single work -->
                     <div class="col-md-4 col-sm-12 graphics">
                         <a href="{{'agenda-personaje'}}" class="portfolio_item">
-                            <img src="img/portfolio/centro.jpg" alt="image" class="img-responsive" />
+                            <img src="img/portfolio/2.png" alt="image" class="img-responsive" />
                             <div class="portfolio_item_hover">
                                 <div class="portfolio-border clearfix">
                                     <div class="item_info">
